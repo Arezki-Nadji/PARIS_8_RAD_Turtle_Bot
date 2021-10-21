@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/arezki/catkin_ws_3/devel -DCMAKE_INSTALL_PREFIX=/home/arezki/catkin_ws_3/install -G Unix Makefiles

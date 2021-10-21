@@ -1,0 +1,8 @@
+prefix=/home/arezki/catkin_ws_3/devel
+
+Name: robot
+Description: Description of robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
